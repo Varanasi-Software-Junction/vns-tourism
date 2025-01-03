@@ -1,5 +1,7 @@
+.btn-primary {
+    background-color: #F4C430 !important;
+}
 
-
-.btn-primary{
-    background-color:  #F4C430!important;
-  }
+.text-primary {
+    color: #F4C430 !important;
+}
